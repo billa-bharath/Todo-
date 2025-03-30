@@ -29,13 +29,6 @@ This is a simple To-Do List application built with HTML, CSS, and JavaScript. It
     - The `button` element with the "ADD" label triggers the JavaScript function `add()` to add tasks to the list.
     - An unordered list (`ul`) with the id `listitem` is where all tasks are displayed.
   
-- **CSS**:
-    - Provides a simple yet attractive layout with some styling for the input, buttons, and list items.
-    - Hover effects are added to the buttons for better user interaction.
-
-- **JavaScript**:
-    - The `add()` function checks if the input field is not empty, then creates a new list item (`li`) with the task and a delete button.
-    - The `deleteitem()` function is triggered when the delete button is clicked, removing the task from the list.
 
 ## Demo
 You can view a live demo of the project by opening the `index.html` file in your browser.
