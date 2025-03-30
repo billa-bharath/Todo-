@@ -11,8 +11,7 @@ This is a simple To-Do List application built with HTML, CSS, and JavaScript. It
 
 ## Technologies Used
 - **HTML**: The structure of the application.
-- **CSS**: Styling for a clean and modern look.
-- **JavaScript**: Functionality to add and remove tasks from the to-do list.
+
 
 ## How to Use
 
