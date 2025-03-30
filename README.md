@@ -1,6 +1,4 @@
-Here's a README file for your To-Do List application that you can post on GitHub:
 
----
 
 # To-Do List ApplicationHere's a README file for your To-Do List application that you can post on GitHub:
 
