@@ -1,9 +1,5 @@
 
 
-# To-Do List ApplicationHere's a README file for your To-Do List application that you can post on GitHub:
-
----
-
 # To-Do List Application
 
 This is a simple To-Do List application built with HTML, CSS, and JavaScript. It allows users to add tasks to a list and delete tasks once they are completed. This project is great for practicing DOM manipulation and event handling in JavaScript.
